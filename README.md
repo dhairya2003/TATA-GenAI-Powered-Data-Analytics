@@ -1,8 +1,9 @@
 # TATA-GenAI-Powered-Data-Analytics
  Forage
 
-Tata Data Analytics Virtual Internship 2025 – Task 1
-This repository contains my submission for Task 1 of the Tata Data Analytics Virtual Internship 2025. The task focused on Exploratory Data Analysis (EDA) using the Geldium dataset provided through the GNI (Generative Natural Intelligence) platform.
+Tata Data Analytics Virtual Internship 2025 – 
+
+Task 1
 
 📌 Task Objective
 To perform data quality assessment and identify issues in the dataset such as:
@@ -17,7 +18,8 @@ Prompt-based EDA
 Dataset uploaded in CSV format
 
 
- Tata Data Analytics Virtual Internship 2025 – Task 2
+  Task 2
+  
 This repository contains my submission for Task 2 of the Tata Data Analytics Virtual Internship 2025, focused on predictive modeling using the Geldium dataset. This task builds on insights from Task 1 (EDA) and applies GenAI-powered methods to design a responsible and explainable credit risk model.
 
 📌 Task Objective
@@ -39,8 +41,8 @@ Dataset provided via GNI platform
 
 
 
- Tata Data Analytics Virtual Internship – Task 3
-This repository contains my Task 3 Business Summary Report for the Tata Data Analytics Virtual Internship.
+ Task 3
+ 
 The report translates predictive model insights into a clear, actionable strategy for Geldium’s Head of Collections.
 
 📝 Report Focus
@@ -57,8 +59,7 @@ A structured, non-technical report connecting data insights with real-world deci
 
 
 
-Task 4 – AI-Powered Collections Strategy 🧠📊
-This repository contains my submission for Task 4 of the Tata Data Analytics Internship 2025.
+Task 4
 
 📌 Task Objective
 To design a framework for an AI-driven, autonomous debt management system using agentic AI to personalize and automate debt collections in real time, while ensuring compliance, fairness, and transparency.
